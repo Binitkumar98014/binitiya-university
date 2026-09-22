@@ -8,7 +8,34 @@ student mangement webside
 <SCRIPT LANGUAGE="JavaScript">
 
 
+<DOCTYPE html>
+<html>
+<head> <title> Instructions</title>
+<style type="text/css">
+body{
+background-color:#FE9A2E;
+color:blue;}
+ol{
+	font-size: 14;
+	
+	font-weight: bold;
+}
 
+</p>
+</style>
+</head>
+<body>
+
+<center><table cellspacing=3><tr><td><code>
+<p><strong>Instructions:</strong>
+<ol><li>Click on the radio buttons as<BR>
+they are selected randomly by the computer.<BR>
+<li>1 point per hit, minus 1 point per miss.<BR>
+<br>
+<center><a href="HTD.html" >Back to Game</a></center>
+</ol></td></tr></table></center>
+</body>
+</html>
 
 
 gamelength=30;
